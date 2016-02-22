@@ -17,6 +17,11 @@ h1 {
   color: #cc1465;
   padding: 0.5em;
 }
+
+.nav {
+  display: inline-block;
+  text-align: center;
+}
 *, *::before, *::after {
   box-sizing: inherit;
 }
