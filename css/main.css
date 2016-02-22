@@ -6,8 +6,17 @@ body {
   margin: 0
 }
 
+nav {
+  background-color: #ffe500;
+}
 
-
+h1 {
+  margin: 0;
+  font-size: 3rem;
+  text-align: center;
+  color: #cc1465;
+  padding: 0.5em;
+}
 *, *::before, *::after {
   box-sizing: inherit;
 }
