@@ -17,14 +17,25 @@ h1 {
   font-size: 3rem;
   text-align: center;
   color: #cc1465;
-  padding: 0.5em;
   font-family: "Sigmar One", normal;
+}
+
+main {
+  margin: 1em;
 }
 
 h2 {
   font-family: "Sigmar One", normal;
   color: #cc1465;
   font-size: 1.875rem;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+b {
+  font-weight: bold;
 }
 
 ul {
