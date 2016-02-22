@@ -17,6 +17,7 @@ h1 {
   text-align: center;
   color: #cc1465;
   padding: 0.5em;
+  font-family: "Sigmar One", normal;
 }
 
 ul {
@@ -46,6 +47,7 @@ footer {
   text-align: center;
   color: #2f2d13;
   padding: 1em;
+  font-size: 0.75rem;
 }
 
 *, *::before, *::after {
