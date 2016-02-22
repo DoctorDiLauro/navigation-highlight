@@ -21,6 +21,12 @@ h1 {
   font-family: "Sigmar One", normal;
 }
 
+h2 {
+  font-family: "Sigmar One", normal;
+  color: #cc1465;
+  font-size: 1.875rem;
+}
+
 ul {
   margin: 0;
 }
