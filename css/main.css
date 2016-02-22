@@ -41,6 +41,7 @@ figure {
 figcaption {
   line-height: 1.5em;
 }
+
 p {
   line-height: 1.5em;
 }
@@ -63,6 +64,7 @@ ul {
 .nav a:hover {
   background-color: #cc1465;
 }
+
 .nav a {
   background-color: #b2a212;
   display: inline-block;
